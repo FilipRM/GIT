@@ -1,6 +1,6 @@
-x <- rnorm(100)
-y <- rnmorm(100)
+x <- rnorm(500)
+y <- rnmorm(600)
 
 #Important feature
 
-#New feature
+#New feature - adding something
