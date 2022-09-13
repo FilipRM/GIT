@@ -3,6 +3,6 @@ y <- rnmorm(600)
 
 #Important feature
 
+#An alternative way forward
 
-#Crazy stuff
 #New feature - adding something
